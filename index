@@ -1,5 +1,22 @@
-<html lang="en-US"><head>
-<meta charset="UTF-8">
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<title>Berra Stream – Watch Movies Online Free</title>
-<meta name="robots" content="max-image-preview:large">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+</body>
+</html>
